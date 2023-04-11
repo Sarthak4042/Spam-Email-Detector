@@ -1,0 +1,4 @@
+Dependicies:-
+Python:- latest version
+Scipy and its libraries
+LogisticRegression:- machine learning model
